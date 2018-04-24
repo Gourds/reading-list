@@ -15,7 +15,7 @@
 - [《Redis实战》*美.Josiah L. Carlson*]()
 - [《移动Web前端高效开发实战》](https://item.jd.com/12170351.html)
 - [《程序是怎么跑起来的》*日.矢泽久雄*](https://item.jd.com/11676683.html)
-- [《Jenkins权威指南》]*美.John Ferguson Smart*(https://item.jd.com/12052762.html)
+- [《Jenkins权威指南》*美.John Ferguson Smart*](https://item.jd.com/12052762.html)
 - [《图解HTTP》*日.上野·宣 *](https://item.jd.com/11449491.html#crumb-wrap)
 - [《图解TCP/IP》*日.竹下隆史*](https://item.jd.com/11253710.html#crumb-wrap)
 - [《图解网络硬件》*日.三轮贤一*](https://item.jd.com/11506709.html#crumb-wrap)
