@@ -31,7 +31,7 @@
 - [《》]()
 - [《》]()
 
-### 课外读物
+### 读物
 
 - [《百年孤独》]()
 - [《半小时漫画中国史》*混子.Kindle版*](https://www.amazon.cn/gp/product/B072Z88B9T/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
