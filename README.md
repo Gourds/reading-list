@@ -1,10 +1,14 @@
 ---
 
 记录读书计划及进度
+
 不定时更新读书笔记
 
+---
 
 ### 待入
+
+---
 
 ### 已入
 
@@ -31,7 +35,13 @@
 - [《》]()
 - [《》]()
 
+<<<<<<< HEAD
 ### 读物
+=======
+---
+
+### 课外读物
+>>>>>>> c1b31ccfc833f32d39139ee3ab59846b0c30b7a5
 
 - [《百年孤独》]()
 - [《半小时漫画中国史》*混子.Kindle版*](https://www.amazon.cn/gp/product/B072Z88B9T/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
@@ -39,3 +49,5 @@
 - [《讲一个卖的好的故事》*Kindle版*](https://www.amazon.cn/gp/product/B01561ZVGK/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
 - [《》]()
 - [《》]()
+
+---
