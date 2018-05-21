@@ -66,6 +66,7 @@
 - [《怎样讲好一个故事》*Kindle版*](https://www.amazon.cn/gp/product/B071ZSFVTP/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
 - [《讲一个卖的好的故事》*Kindle版*](https://www.amazon.cn/gp/product/B01561ZVGK/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
 - [《浪潮之巅》*Kindle*](https://www.amazon.cn/dp/B01FUVA3BE/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1525238077&sr=1-1-catcorr&keywords=%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85+%E5%90%B4%E5%86%9B)
+- [《八千万里云和月》*莫问剑*](http://item.jd.com/11722416.html)
 - [《》]()
 
 ---
