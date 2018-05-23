@@ -1,8 +1,17 @@
 ---
 
-记录读书计划及进度
+### 阅读计划
 
-不定时更新读书笔记
+5月：
+
+- [ ] [《八千里路云和月:一个国家扶贫开发工作重点县的互联网》](http://product.dangdang.com/23730071.html)
+- [x] [《DevOps实战》](https://item.jd.com/12035906.html) 
+
+ago：
+- [x] [《奔跑吧Ansible》*加.Lorin Hochstein*](https://item.jd.com/11839215.html)
+- [x] [《Docker即学即用》*美.Karl Matthisa*](https://www.amazon.cn/gp/product/B019R55Z6W)
+- [x] [《图解HTTP》*日.上野·宣*](https://item.jd.com/11449491.html#crumb-wrap)
+- [x] [《图解TCP/IP》*日.竹下隆史*](https://item.jd.com/11253710.html#crumb-wrap)
 
 ---
 
@@ -13,10 +22,9 @@
 - [《番茄工作法图解》](http://product.dangdang.com/21021603.html)
 - [《》]()
 
-### 待入工程书
+### 从业书单
 
 - [《SRE Google运维解密》](https://item.jd.com/11973579.html)
-- [《DevOps实战》](https://item.jd.com/12035906.html)
 - [《Go语言学习笔记》](https://item.jd.com/11944267.html)
 - [《Go Web编程》](https://item.jd.com/12252845.html)
 - [《网络是怎样连接的》](http://product.dangdang.com/24174119.html)
@@ -29,24 +37,14 @@
 - [《Flask Web开发》](https://item.jd.com/11594082.html)
 - [《Python标准库》](https://item.jd.com/11020898.html)
 - [《进化：运维技术变革与实践探索》]()
-- []()
-
----
-
-### 已入
-
 - [《Docker经典实例》*美.Sebastien Goasguen*](https://item.jd.com/12126210.html)
 - [《Kubernetes权威指南》*第二版*](https://item.jd.com/11980349.html)
-- [《奔跑吧Ansible》*加.Lorin Hochstein*](https://item.jd.com/11839215.html)
 - [《构建高可用Linux服务器》*于洪春*](https://item.jd.com/12267548.html)
 - [《Redis实战》*美.Josiah L. Carlson*](https://item.jd.com/11791607.html)
 - [《移动Web前端高效开发实战》](https://item.jd.com/12170351.html)
 - [《程序是怎么跑起来的》*日.矢泽久雄*](https://item.jd.com/11676683.html)
 - [《Jenkins权威指南》*美.John Ferguson Smart*](https://item.jd.com/12052762.html)
-- [《图解HTTP》*日.上野·宣 *](https://item.jd.com/11449491.html#crumb-wrap)
-- [《图解TCP/IP》*日.竹下隆史*](https://item.jd.com/11253710.html#crumb-wrap)
 - [《图解网络硬件》*日.三轮贤一*](https://item.jd.com/11506709.html#crumb-wrap)
-- [《Docker即学即用》*美.Karl Matthisa*](https://www.amazon.cn/gp/product/B019R55Z6W/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 - [《Python Cookbook》](https://www.amazon.cn/gp/product/B00WKR1OKG/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 - [《Django之歌:简易》](https://www.amazon.cn/gp/product/B00P21W69K/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)
 - [《Wireshark网络分析的艺术》](https://www.amazon.cn/gp/product/B01AS1OS8A/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
