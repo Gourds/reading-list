@@ -12,6 +12,8 @@ ago：
 - [x] [《Docker即学即用》*美.Karl Matthisa*](https://www.amazon.cn/gp/product/B019R55Z6W)
 - [x] [《图解HTTP》*日.上野·宣*](https://item.jd.com/11449491.html#crumb-wrap)
 - [x] [《图解TCP/IP》*日.竹下隆史*](https://item.jd.com/11253710.html#crumb-wrap)
+- [x] [《半小时漫画中国史》*混子.Kindle版*](https://www.amazon.cn/gp/product/B072Z88B9T/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
+- [x] [《百年孤独》](https://item.jd.com/12152685.html)
 
 ---
 
