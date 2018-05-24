@@ -4,8 +4,8 @@
 
 5月：
 
-- [ ] [《八千里路云和月:一个国家扶贫开发工作重点县的互联网》](http://product.dangdang.com/23730071.html)
-- [x] [《DevOps实战》](https://item.jd.com/12035906.html) 
+- 《八千里路云和月:一个国家扶贫开发工作重点县的互联网》
+- ~~《DevOps实践》~~ 完结，个人不推荐
 
 
 ---
@@ -15,9 +15,9 @@
 **系统原理及优化**
 - [ ] [《网络是怎样连接的》](http://product.dangdang.com/24174119.html)
 - [ ] [《程序是怎么跑起来的》*日.矢泽久雄*](https://item.jd.com/11676683.html)
-- [ ] [《图解网络硬件》*日.三轮贤一*](https://item.jd.com/11506709.html#crumb-wrap)
-- [ ] [《图解TCP/IP》]
-- [ ] [《图解HTTP》]
+- [x] [《图解网络硬件》*日.三轮贤一*](https://item.jd.com/11506709.html#crumb-wrap)
+- [x] [《图解TCP/IP》]()
+- [x] [《图解HTTP》]()
 - [ ] [《图解性能优化》](http://product.dangdang.com/24185678.html)
 - [ ] [《Wireshark网络分析的艺术》](https://www.amazon.cn/gp/product/B01AS1OS8A/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
 - [ ] [《实用网络流量分析技术》](https://item.jd.com/13788381692.html)
@@ -28,21 +28,27 @@
 - [ ] [《进化：运维技术变革与实践探索》]()
 - [ ] [《系统架构:复杂系统的产品设计与开发》](http://product.dangdang.com/24166002.html)
 - [ ] [《SRE Google运维解密》](https://item.jd.com/11973579.html)
-- [ ] [《DevOps实践》]()
+- [x] [《DevOps实践》]()
 
 **运维技能**
 - [x] [《Git版本控制管理》](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
-- [ ] [《Docker实践》](http://product.dangdang.com/25218250.html)
+- [x] [《Jenkins权威指南》*美.John Ferguson Smart*](https://item.jd.com/12052762.html)
+- [x] [《Vim实用技巧》]()
 - [ ] [《精通正则表达式》](http://product.dangdang.com/22851836.html)
-- [ ] [《大话数据结构》](https://item.jd.com/10663703.html)
+- [x] [《Shell脚本学习指南》]()
+- [x] [《奔跑吧Ansible》]()
+- [x] [《即学即用Docker》]()
+- [ ] [《Docker实践》](http://product.dangdang.com/25218250.html)
 - [ ] [《Docker经典实例》*美.Sebastien Goasguen*](https://item.jd.com/12126210.html)
 - [ ] [《Kubernetes权威指南》*第二版*](https://item.jd.com/11980349.html)
 - [ ] [《构建高可用Linux服务器》*于洪春*](https://item.jd.com/12267548.html)
+- [ ] [《大话数据结构》](https://item.jd.com/10663703.html)
 - [ ] [《Redis实战》*美.Josiah L. Carlson*](https://item.jd.com/11791607.html)
-- [ ] [《Jenkins权威指南》*美.John Ferguson Smart*](https://item.jd.com/12052762.html)
 - [ ] [《》]()
 
 **开发扩展**
+- [x] [《与孩子一起学编程》]()
+- [x] [《笨方法学Python》]()
 - [ ] [《Python标准库》](https://item.jd.com/11020898.html)
 - [ ] [《Python Cookbook》]()
 - [ ] [《Python Web开发实战》](http://product.dangdang.com/24029839.html)
@@ -76,7 +82,8 @@
 - [ ] [《傅雷家书》]()
 - [ ] [《稻草人手记》]()
 - [ ] [《老人与海》]()
-- [ ] [《牛虻》]()
+- [x] [《牛虻》]()
+- [x] [《活着》]()
 - [ ] [《小王子》]()
 - [ ] [《》]()
 
