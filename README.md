@@ -4,7 +4,7 @@
 
 
 2018年6月：
-- 《SRE Google运维解密》
+- ~~《SRE Google运维解密》~~
 
 2018年5月：
 - ~~《八千里路云和月:一个国家扶贫开发工作重点县的互联网》~~
@@ -30,7 +30,7 @@
 - [ ] [《分布式服务框架原理与实践》](http://product.dangdang.com/23851271.html)
 - [ ] [《进化：运维技术变革与实践探索》]()
 - [ ] [《系统架构:复杂系统的产品设计与开发》](http://product.dangdang.com/24166002.html)
-- [ ] [《SRE Google运维解密》](https://item.jd.com/11973579.html)
+- [x] [《SRE Google运维解密》](https://item.jd.com/11973579.html)
 - [x] [《DevOps实践》]()
 
 **运维技能**
