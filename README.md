@@ -72,7 +72,7 @@
 - [ ] [《怎样讲好一个故事》*Kindle版*]()
 - [ ] [《讲一个卖的好的故事》*Kindle版*]()
 - [ ] [《浪潮之巅》*Kindle*]()
-- [ ] [《八千万里云和月》*莫问剑*](http://item.jd.com/11722416.html)
+- [x] [《八千万里云和月》*莫问剑*](http://item.jd.com/11722416.html)
 - [ ] [《原则》](https://item.jd.com/12257413.html)
 - [ ] [《S. 忒修斯之船》](https://item.jd.com/11932116.html)
 - [ ] [《番茄工作法图解》](http://product.dangdang.com/21021603.html)
