@@ -24,14 +24,19 @@
 - [ ] [《图解性能优化》](http://product.dangdang.com/24185678.html)
 - [ ] [《Wireshark网络分析的艺术》](https://www.amazon.cn/gp/product/B01AS1OS8A/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
 - [ ] [《实用网络流量分析技术》](https://item.jd.com/13788381692.html)
+- [ ] [《编码：隐匿在计算机软硬件背后的语言》]()
+- [ ] [《码农翻身：用故事给技术加点料》]()
+- [ ] [《》]()
 
 **架构及思想**
 - [ ] [《程序员数学思维修炼》](http://product.dangdang.com/23447083.html)
+- [ ] [《数学之美》]()
 - [ ] [《分布式服务框架原理与实践》](http://product.dangdang.com/23851271.html)
 - [ ] [《进化：运维技术变革与实践探索》]()
 - [ ] [《系统架构:复杂系统的产品设计与开发》](http://product.dangdang.com/24166002.html)
 - [x] [《SRE Google运维解密》](https://item.jd.com/11973579.html)
 - [x] [《DevOps实践》]()
+
 
 **运维技能**
 - [x] [《Git版本控制管理》](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
@@ -62,6 +67,13 @@
 - [ ] [《Web性能权威指南》](https://item.jd.com/11444582.html)
 - [ ] [《Go语言学习笔记》](https://item.jd.com/11944267.html)
 - [ ] [《Go Web编程》](https://item.jd.com/12252845.html)
+- [ ] [《》]()
+
+**其他扩展**
+- [ ] [《软技能 代码之外的生存指南》]()
+- [ ] [《新未来简史：区块链、人工智能、大数据陷阱与数字化生活》]()
+- [ ] [《》]()
+
 
 ---
 
