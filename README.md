@@ -40,6 +40,7 @@
 - [ ] [《程序员数学思维修炼》](http://product.dangdang.com/23447083.html)
 - [ ] [《数学之美》]()
 - [ ] [《分布式服务框架原理与实践》](http://product.dangdang.com/23851271.html)
+- [ ] [《可伸缩服务架构：框架与中间件》](https://item.jd.com/12308233.html)
 - [ ] [《进化：运维技术变革与实践探索》]()
 - [ ] [《系统架构:复杂系统的产品设计与开发》](http://product.dangdang.com/24166002.html)
 - [x] [《SRE Google运维解密》](https://item.jd.com/11973579.html)
@@ -61,6 +62,7 @@
 - [ ] [《构建高可用Linux服务器》*于洪春*](https://item.jd.com/12267548.html)
 - [ ] [《大话数据结构》](https://item.jd.com/10663703.html)
 - [ ] [《Redis实战》*美.Josiah L. Carlson*](https://item.jd.com/11791607.html)
+- [ ] [《Nginx高性能Web服务器详解》](https://item.jd.com/11344355.html)
 - [ ] [《》]()
 
 **开发扩展**
