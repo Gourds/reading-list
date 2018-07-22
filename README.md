@@ -3,7 +3,7 @@
 ### 阅读计划
 
 2018年7月
-- ~~[《百度前端学院》](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web),不是书了解相关前端知识~~
+- ~~[MDN Web入门](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web),基础前端知识~~
 - 《程序员数学思维修炼》1/4记录
 - 《图解性能优化》
 
