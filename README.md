@@ -39,6 +39,7 @@
 **架构及思想**
 - [ ] [《程序员数学思维修炼》](http://product.dangdang.com/23447083.html)
 - [ ] [《数学之美》]()
+- [ ] [《算法图解》](https://item.jd.com/12148832.html)
 - [ ] [《分布式服务框架原理与实践》](http://product.dangdang.com/23851271.html)
 - [ ] [《可伸缩服务架构：框架与中间件》](https://item.jd.com/12308233.html)
 - [ ] [《进化：运维技术变革与实践探索》]()
@@ -85,7 +86,7 @@
 - [ ] [《使用Perl实现系统管理自动化》]()
 - [ ] [《Perl Cookbook》]()
 - [ ] [《Perl实例精解》]()
-- [ ] [Kafka技术内幕](https://item.jd.com/12234113.html)
+- [ ] [《Kafka技术内幕》](https://item.jd.com/12234113.html)
 - [ ] [《》]()
 
 **其他扩展**
