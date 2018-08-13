@@ -38,7 +38,7 @@
 - [ ] [《》]()
 
 **架构及思想**
-- [ ] [《程序员数学思维修炼》](http://product.dangdang.com/23447083.html)
+- [x] [《程序员数学思维修炼》](http://product.dangdang.com/23447083.html)
 - [ ] [《数学之美》]()
 - [ ] [《算法图解》](https://item.jd.com/12148832.html)
 - [ ] [《分布式服务框架原理与实践》](http://product.dangdang.com/23851271.html)
