@@ -67,8 +67,10 @@
 - [ ] [《大话数据结构》](https://item.jd.com/10663703.html)
 - [ ] [《Redis实战》*美.Josiah L. Carlson*](https://item.jd.com/11791607.html)
 - [ ] [《Nginx高性能Web服务器详解》](https://item.jd.com/11344355.html)
+- [ ] [《Kafka技术内幕》](https://item.jd.com/12234113.html)
+- [ ] [《基础设施即代码：云服务器管理 》](https://item.jd.com/31219349856.html)
 - [ ] [《》]()
-- [ ] [《》]()
+
 
 **开发扩展**
 - [x] [《与孩子一起学编程》]()
@@ -88,8 +90,7 @@
 - [ ] [《使用Perl实现系统管理自动化》]()
 - [ ] [《Perl Cookbook》]()
 - [ ] [《Perl实例精解》]()
-- [ ] [《Kafka技术内幕》](https://item.jd.com/12234113.html)
-- [ ] [《基础设施即代码：云服务器管理 》](https://item.jd.com/31219349856.html)
+- [ ] [《》]()
 
 **其他扩展**
 - [ ] [《软技能 代码之外的生存指南》]()
