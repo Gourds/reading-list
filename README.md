@@ -148,6 +148,7 @@
 - [ ] [《怎样讲好一个故事》*Kindle版*]()
 - [ ] [《讲一个卖的好的故事》*Kindle版*]()
 - [ ] [《浪潮之巅》*Kindle*]()
+- [ ] [《精准表达》](https://book.douban.com/subject/30256364/?icn=index-latestbook-subject)
 - [ ] [《》]()
 
 ---
