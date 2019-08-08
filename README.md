@@ -63,6 +63,7 @@
 
 **开发语言-Python**
 - [x] [《与孩子一起学编程》]()
+- [ ] [《Head First Python》]() 
 - [x] [《笨方法学Python》]()
 - [ ] [《Python标准库》](https://item.jd.com/11020898.html)
 - [ ] [《Python Cookbook》]()
