@@ -3,6 +3,7 @@
 2019年9月
 - Flask课程
 - 《Flask Web开发》
+- 重温《图解HTTP》
 
 2019年8月
 - Flask课程
