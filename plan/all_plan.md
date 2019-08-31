@@ -1,7 +1,11 @@
 ### 阅读计划
 
 2019年9月
-- 《Go语言学习笔记》
+- Flask课程
+- 《Flask Web开发》
+
+2019年8月
+- Flask课程
 
 2019年3月
 - 《Head First Python》
