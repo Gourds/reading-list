@@ -146,6 +146,7 @@
 - [ ] [《浪潮之巅》*Kindle*]()
 - [ ] [《精准表达》](https://book.douban.com/subject/30256364/?icn=index-latestbook-subject)
 - [ ] [《幻想故事集》]()
+- [ ] [《贫穷的本质》]()
 - [ ] [《》]()
 
 ---
